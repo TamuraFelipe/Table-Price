@@ -3,6 +3,7 @@
 <h2>Descrição</h2>
 <p>Desafio de projeto do programa Discover da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. Página simples contendo alguns cards com plano, valores, descrição, etc.</p>
 <ul>
+  <li><a href="https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32" target="_blank">Link para o Desafio</a></li>
   <li>Página simples</li>
   <li>Conceitos de Responsividade</li>
   <li>Utilização de alguns transitions (CSS3)</li>
